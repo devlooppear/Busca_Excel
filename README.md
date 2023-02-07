@@ -1,6 +1,6 @@
 # Busca_Excel
 
-- Esse código foi feito como estudo, para treino de buscas inteligentes em arquivos usados no Excel.
+- Código feito para buscas de valores em diversos arquivos em Excel.
 
 - Como usar: no arquivo principal "main.py", você pode escolher um valor para pesquisar, na variável `CONDICAO` e irá mostrar, no terminal, o vendedor e venda que atingiu o determinado valor.
 
